@@ -158,6 +158,11 @@ body {
 
 .apresentacao__links__navegacao__modelo1:hover {
     background-color: var(--cor-hovermod1);
+    color: var(--cor-primaria);
+    font-family: var(--fonte-secundaria);
+    font-weight: 600; 
+    font-size: 1.5rem
+    font-style: normal;
 } 
 
 .apresentacao__links__navegacao__modelo2:hover {
