@@ -59,12 +59,13 @@ body {
     padding: 10% 0%;
     font-size:1.4rem;
     font-family: var(--fonte-primaria);
+    text-align: center;
 }
 
 .titulo_nome {
     padding: 1% 1%;
     font-family: var(--fonte-primaria);
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 400;
     color: var(--cor-secundaria);
     text-align: center;
