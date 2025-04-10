@@ -92,7 +92,6 @@ body {
     padding: 20px; 
     width: 80;
     height: 300;
-    text-indent: 50px;
     text-align: justify;
     letter-spacing: 1px;
 }
@@ -202,7 +201,7 @@ body {
 
 @media (max-width: 800px) {
     .cabecalho {
-        padding: 5% 15%;
+        padding: 15%;
     }
 
     .cabecalho__menu {
