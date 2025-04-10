@@ -169,6 +169,8 @@ body {
     background-color: var(--cor-hovermod2);
 }
 .apresentacao__imagem {
+    display: block;
+    margin: auto;
     width: 80%;
 }
 
