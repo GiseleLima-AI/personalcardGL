@@ -22,12 +22,12 @@ body {
 }
 
 .cabecalho {
-    padding: 0% 0% 0% 15%;
+    padding: 2% 10% 0% 10%;
 }
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 40px;
 }
 
 .cabecalho__menu__link {
@@ -199,7 +199,7 @@ body {
     font-weight: 400;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
     .cabecalho {
         padding: 15%;
     }
